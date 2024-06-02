@@ -25,3 +25,15 @@
   cursor: pointer;
   border-radius: 5px;
 }
+
+body > img {
+  width: 215.1px;
+  height: 384px;
+}
+
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
