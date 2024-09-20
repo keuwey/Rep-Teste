@@ -1,0 +1,9 @@
+Eu ligaria o primeiro interruptor por uns 5 minutos.
+
+depois disso eu desligaria o primeiro interruptor e ligaria o segundo.
+
+depois iria para as salas com as lâmpadas.
+
+1) A lâmpada que está acessa é do segundo interruptor que eu deixei ligado antes de sair.
+2) Então eu poderia tocar nas outras duas lâmpadas. A lâmpada que está quente, mas apagada, corresponde ao primeiro interruptor (que eu havia ligado por algum tempo e depois desliguei).
+3) A lâmpada que está fria e apagada é do terceiro interruptor (que eu nunca liguei).
